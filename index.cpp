@@ -1,6 +1,6 @@
 //c first page
 #include<stdio.h>
 int main(void){
-    printf("Hellow World!");
+    printf("Hello world!");
     return 0;
 }
